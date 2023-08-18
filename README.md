@@ -1,2 +1,5 @@
-# Croissant
-Croissant is VS Code extension to make life more tasty !
+# croissant README
+
+Hello Vcore centeral member !!
+
+**Enjoy!**
